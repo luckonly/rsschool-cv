@@ -67,3 +67,5 @@ extension ViewController: UITextFieldDelegate {
 }
 ```
 6. As I am a junior, everything I have is only the beginner swift courses by Anthony
+7. [St.Anthony Swift school](https://www.youtube.com/channel/UCeHpxxaYsEF_AZfwlUK0ilg).
+8. Upper intermediate by [Alphaschool](https://alphaschoolmalta.com) in Malta.
